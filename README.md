@@ -24,4 +24,4 @@ This project was created using Power BI to analyze sales and revenue performance
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+<img width="1310" height="732" alt="image" src="https://github.com/user-attachments/assets/60081157-6b4e-4bdb-8f61-c3c42dab4dd7" />
